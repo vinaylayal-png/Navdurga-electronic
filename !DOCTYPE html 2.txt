@@ -113,7 +113,7 @@
 
         <!-- Product 1 -->
         <div class="product">
-            <img src="corebit.jpg" alt="Core Bit">
+            <img src="corebit.jpg alt="Core Bit">
             <h3>Core Bit</h3>
             <p>Price: ₹1200</p>
             <button>Buy Now</button>
@@ -121,7 +121,7 @@
 
         <!-- Product 2 -->
         <div class="product">
-            <img src="smallbender.jpg" alt="Small Inner Bender">
+            <img src="smallbender.jpg alt="Small Inner Bender">
             <h3>Poly Inner Bender Pipe</h3>
             <p>Price: ₹500</p>
             <button>Buy Now</button>
@@ -169,3 +169,4 @@
 
 </body>
 </html>
+
