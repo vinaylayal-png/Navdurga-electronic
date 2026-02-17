@@ -156,9 +156,9 @@
     <h2 id="contact">Contact Us</h2>
 
     <p style="text-align:center;">
-        📞 Phone: 7006529957 <br>
-        📍 Address: Sunderbani girls higher secondary <br>
-        📧 Email: vinaylayal@gmail.com
+        📞 Phone: Your Number <br>
+        📍 Address: Your Shop Address <br>
+        📧 Email: yourmail@gmail.com
     </p>
 
 </div>
@@ -169,4 +169,3 @@
 
 </body>
 </html>
-
